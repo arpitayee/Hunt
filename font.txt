@@ -1,0 +1,15 @@
+font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+     <i class="fa-solid fa-circle-arrow-left left"></i>
+     <i class="fa-solid fa-circle-arrow-right right"></i>
+     1 2 3 4
+     5 6 7 8
+    .service-inner.slick-center .service-part .service-middle{
+    transform: scale(1.5);
+    transition: all linear 0.5s;
+    
+ }
+  .service-inner.slick-center .service-part .service-middle .service-icon{
+    background: #fec600;
+ }

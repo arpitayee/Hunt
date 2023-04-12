@@ -1,0 +1,128 @@
+ @media (max-width: 575.98px) { 
+
+    .navbar-brand img {
+        height: 70px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-top:0px;
+        margin-bottom: 0px;
+    }
+.banner_slider{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    clip-path: polygon(0 0, 100% 0%, 100% 100%, 0% 100%);
+
+}
+    .banner-text h2{
+       font-size: 24px;
+    }
+    .banner-text h1{
+        font-size: 50px;
+     }
+     .banner-text p {
+        font-size: 14px;
+        padding-bottom: 40px;
+        width: 520px;
+        margin: 0 auto;
+    }
+    .banner-text .banner-btn a {
+         margin-bottom: 0px;
+     
+    }
+     .left{
+        display: none!important;
+
+     }
+     .right{
+        display: none!important;
+     }
+     .shape{
+        width: 0px;
+     }
+     .about-top .circle{
+        width: 0px;
+     }
+  .about-bottom .circle{
+    width: 0px;
+  }
+ .about-top:hover{
+    filter: drop-shadow(0px 0px 0px black);
+
+ }
+ .about-left:hover{
+    filter: drop-shadow(0px 0px 0px black);
+
+ }
+ .about-right:hover{
+    filter: drop-shadow(0px 0px 0px black);
+
+ }
+ .about-bottom:hover{
+    filter: drop-shadow(0px 0px 0px black);
+
+ }
+     .about-top p{
+width: 405px;
+margin: 0 auto;
+     }
+     .circle{
+        width:0px
+     }
+     .about-left{
+        margin-bottom: 22px;
+     }
+     .about-left h4{
+        text-align: center;
+     }
+     .about-left p{
+        margin: 0 auto;
+        text-align: center;
+        width: 405px;
+     }
+     .about-right{
+        margin-top: 22px;
+     }
+     .about-right h4{
+        text-align: center;
+     }
+     .about-right p{
+        margin: 0 auto;
+        text-align: center;
+        width: 405px;
+     }
+     .about-bottom{
+        margin-top: 0px;
+     }
+     .about-bottom h4{
+        text-align: center;
+     }
+     .about-bottom p{
+        margin: 0 auto;
+        text-align: center;
+        width: 405px;
+     }
+     #portfolio{
+        clip-path: polygon(0 0%, 100% 0%, 100% 100%, 0% 100%);
+        padding-top: 90px;
+        padding-bottom: 125px;
+     }
+     .overlay{
+        background: transparent;
+     }
+     .overlay i{
+       font-size: 0px;
+       background: none;
+     }
+     #services .up {
+       
+        top: 42px;
+        left: 50%;
+       
+    }
+    #services .down{
+        left: 50%;
+    }
+ } 
